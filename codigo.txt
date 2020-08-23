@@ -1,0 +1,6 @@
+confirmacao = "não"
+while confirmacao == "não":
+    destino = input("Digite o local da viagem: ")
+    print("A viagem para", destino, "está correta? ")
+    confirmacao = input()
+print( "Iniciando viagem...")

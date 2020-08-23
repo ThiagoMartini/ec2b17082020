@@ -1,3 +1,5 @@
 O sistema deve fazer autenticacao de usuario.
-o sistema deve alocar o carro voador mais proximo do usuario.
-o usuario deve fazer a solicitacao de uma viagem por aplicativo.
+O sistema deve alocar o carro voador mais proximo do usuario.
+O sistema deve fazer o calculo maximo de $ 10.00 dolare sobre aviagens.
+O usuario deve fazer a solicitacao de uma viagem por aplicativo.
+

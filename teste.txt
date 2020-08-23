@@ -1,0 +1,3 @@
+Testar o programa para ver se ele esta atendendo tudo que o cliente solicitou 
+ver se o programa não apresenta nem um erro 
+verificar se o programa esta atendendo bem na parte de usuarios

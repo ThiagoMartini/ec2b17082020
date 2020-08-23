@@ -1,0 +1,4 @@
+No menu íniciar deve ter uma barra para o usurario didgitar o local de destino da viagem
+Deve aparaece um mapa para o local digitado perguntando se é o local correto da viagens 
+O usuario confirma e o aplicativo procura o carro mais proximo dele para iniciar a viagens
+Durante a viagens o aplacativo deve mosntrar a localização do usuaria na tela
